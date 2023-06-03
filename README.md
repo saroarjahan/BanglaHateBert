@@ -1,4 +1,5 @@
 # BanglaHateBert
+## largest label dataset for Bangla hate approximate 7.5k+ hate and 7.5k+ non-hate smaple
 This drive contains bangla hate benchmarked dataset emtnion in paper:
 @inproceedings{jahan2022banglahatebert,
   title={BanglaHateBERT: BERT for Abusive Language Detection in Bengali},
