@@ -8,7 +8,7 @@ The dataset includes various types of text data such as posts from social media 
 
 1. Post: This column contains the text content extracted from different sources, such as Facebook, YouTube, or news comments.
 2. Label: The label column indicates whether the given text sample is categorized as hate speech (labeled as 1) or non-hate speech (labeled as 0).
-3. Categories: The categories column provides more specific information about the type of hate speech, with labels such as xe (xenophobia), ho (homophobia), pe (personal, including defamation-de and insult-in), se (sexual), po (political), ge (geopolitical), re (religion), and ra (racism).
+3. Categories: The categories column provides more specific information about the type of hate speech, with labels such as xe (xenophobia), ho (homophobia), pe (personal, including defamation-de and insult-in), se (sexual), po (political), ge (geopolitical), re (religion), and ra (racism) , no-normal(non-hatespeech).
 
 ## Citation
 If you use this dataset in your research or work, please cite the following paper:
