@@ -1,5 +1,7 @@
 # BanglaHateBert
 
+https://huggingface.co/saroarj/BanglaHateBert
+
 ## Introduction
 BanglaHateBert is a dataset specifically created for Bangla (Bengali) language that focuses on hate speech detection. This dataset consists of a large collection of approximately 7.5k+ samples labeled as hate speech and an additional 7.5k+ samples labeled as non-hate speech. The dataset is designed to serve as a benchmark for evaluating hate speech detection models in the Bangla language.
 
